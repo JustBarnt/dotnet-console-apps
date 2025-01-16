@@ -1,5 +1,5 @@
-**/.vs
-**/bin
-**/obj
+.vs
+.idea
+bin
+obj
 .DS_STORE
-**/.DS_STORE
