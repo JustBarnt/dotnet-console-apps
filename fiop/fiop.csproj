@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <RootNamespace>FileOp</RootNamespace>
+        <AssemblyName>fiop</AssemblyName>
+        <PackageId>fiop</PackageId>
+        <Version>0.0.1</Version>
+        <Authors>JustBarnt</Authors>
+        <Company>fiop</Company>
+        <Product>fiop</Product>
+    </PropertyGroup>
+
+</Project>
